@@ -1,0 +1,61 @@
+# Backend (Go)
+backend/pos_bengkel.db
+backend/.env
+backend/tmp/
+backend/logs/
+backend/vendor/
+
+# Frontend (Flutter)
+flutter_app/.dart_tool/
+flutter_app/.packages
+flutter_app/.pub-cache/
+flutter_app/.pub/
+flutter_app/build/
+flutter_app/ios/Runner.xcworkspace/
+flutter_app/ios/Flutter/flutter_assets/
+flutter_app/ios/.generated/
+flutter_app/ios/Flutter/App.framework
+flutter_app/ios/Flutter/Flutter.framework
+flutter_app/ios/Flutter/Flutter.podspec
+flutter_app/ios/Flutter/Generated.xcconfig
+flutter_app/ios/Flutter/app.flx
+flutter_app/ios/Flutter/app.zip
+flutter_app/ios/Flutter/flutter_assets/
+flutter_app/.vscode/
+flutter_app/android/.gradle/
+flutter_app/android/captures/
+flutter_app/android/gradle-wrapper.jar
+flutter_app/android/.gradletasknamecache
+flutter_app/android/local.properties
+flutter_app/android/app/debug
+flutter_app/android/app/profile
+flutter_app/android/app/release
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
